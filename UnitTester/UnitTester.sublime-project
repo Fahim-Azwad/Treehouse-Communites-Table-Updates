@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Root",
+			"folder_exclude_patterns": [".vscode", "__pycache__"],
+			"follow_symlinks": true
+		},
+		{
+			"path": "../Jeremy/azurestorage",
+			"name": "ref: azurestorage",
+			"folder_exclude_patterns": [".vscode", "__pycache__"],
+			"follow_symlinks": true
+		},
+		{
+			"path": "../Jeremy/DropboxPyProj",
+			"name": "ref: DropboxPyProj",
+			"folder_exclude_patterns": [".vscode", "__pycache__"],
+			"follow_symlinks": true
+		},
+		{
+			"path": "../Jeremy/posgresDBtst",
+			"name": "ref: posgresDBtst",
+			"folder_exclude_patterns": [".vscode", "__pycache__"],
+			"follow_symlinks": true
+		}
+	]
+}
