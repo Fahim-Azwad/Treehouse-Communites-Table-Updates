@@ -1,2 +1,2 @@
-﻿# Treehouse Communities Table Updates Repo
+﻿# Treehouse Communities Table Updates Repository
 Python script codes for Treehouse Communities
